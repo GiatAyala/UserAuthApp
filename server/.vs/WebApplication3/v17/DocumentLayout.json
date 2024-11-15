@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u05D0\u05D9\u05DC\u05D4\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9281D5EB-8A3C-4FEC-B069-F5BDD2111B5E}|WebApplication3\\WebApplication3.csproj|c:\\users\\user\\desktop\\\u05D0\u05D9\u05DC\u05D4\\webapplication3\\webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9281D5EB-8A3C-4FEC-B069-F5BDD2111B5E}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281D5EB-8A3C-4FEC-B069-F5BDD2111B5E}|WebApplication3\\WebApplication3.csproj|c:\\users\\user\\desktop\\\u05D0\u05D9\u05DC\u05D4\\webapplication3\\webapplication3\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9281D5EB-8A3C-4FEC-B069-F5BDD2111B5E}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32F4CA4-01A8-4971-9C08-40A29C90BC87}|BAL\\BAL.csproj|c:\\users\\user\\desktop\\\u05D0\u05D9\u05DC\u05D4\\webapplication3\\bal\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32F4CA4-01A8-4971-9C08-40A29C90BC87}|BAL\\BAL.csproj|solutionrelative:bal\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32F4CA4-01A8-4971-9C08-40A29C90BC87}|BAL\\BAL.csproj|c:\\users\\user\\desktop\\\u05D0\u05D9\u05DC\u05D4\\webapplication3\\bal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32F4CA4-01A8-4971-9C08-40A29C90BC87}|BAL\\BAL.csproj|solutionrelative:bal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32F4CA4-01A8-4971-9C08-40A29C90BC87}|BAL\\BAL.csproj|c:\\users\\user\\desktop\\\u05D0\u05D9\u05DC\u05D4\\webapplication3\\bal\\bal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D32F4CA4-01A8-4971-9C08-40A29C90BC87}|BAL\\BAL.csproj|solutionrelative:bal\\bal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7092E596-64CE-423B-A58D-DE4AB599F424}|DTO\\DTO.csproj|c:\\users\\user\\desktop\\\u05D0\u05D9\u05DC\u05D4\\webapplication3\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7092E596-64CE-423B-A58D-DE4AB599F424}|DTO\\DTO.csproj|solutionrelative:dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7092E596-64CE-423B-A58D-DE4AB599F424}|DTO\\DTO.csproj|c:\\users\\user\\desktop\\\u05D0\u05D9\u05DC\u05D4\\webapplication3\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7092E596-64CE-423B-A58D-DE4AB599F424}|DTO\\DTO.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57C810D-C84C-4E65-A21E-87E2A592FC8C}|DAL\\DAL.csproj|c:\\users\\user\\desktop\\\u05D0\u05D9\u05DC\u05D4\\webapplication3\\dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57C810D-C84C-4E65-A21E-87E2A592FC8C}|DAL\\DAL.csproj|solutionrelative:dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57C810D-C84C-4E65-A21E-87E2A592FC8C}|DAL\\DAL.csproj|c:\\users\\user\\desktop\\\u05D0\u05D9\u05DC\u05D4\\webapplication3\\dal\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57C810D-C84C-4E65-A21E-87E2A592FC8C}|DAL\\DAL.csproj|solutionrelative:dal\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57C810D-C84C-4E65-A21E-87E2A592FC8C}|DAL\\DAL.csproj|c:\\users\\user\\desktop\\\u05D0\u05D9\u05DC\u05D4\\webapplication3\\dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57C810D-C84C-4E65-A21E-87E2A592FC8C}|DAL\\DAL.csproj|solutionrelative:dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57C810D-C84C-4E65-A21E-87E2A592FC8C}|DAL\\DAL.csproj|c:\\users\\user\\desktop\\\u05D0\u05D9\u05DC\u05D4\\webapplication3\\dal\\models\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57C810D-C84C-4E65-A21E-87E2A592FC8C}|DAL\\DAL.csproj|solutionrelative:dal\\models\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32F4CA4-01A8-4971-9C08-40A29C90BC87}|BAL\\BAL.csproj|c:\\users\\user\\desktop\\\u05D0\u05D9\u05DC\u05D4\\webapplication3\\bal\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32F4CA4-01A8-4971-9C08-40A29C90BC87}|BAL\\BAL.csproj|solutionrelative:bal\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281D5EB-8A3C-4FEC-B069-F5BDD2111B5E}|WebApplication3\\WebApplication3.csproj|c:\\users\\user\\desktop\\\u05D0\u05D9\u05DC\u05D4\\webapplication3\\webapplication3\\webapplication3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9281D5EB-8A3C-4FEC-B069-F5BDD2111B5E}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\webapplication3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57C810D-C84C-4E65-A21E-87E2A592FC8C}|DAL\\DAL.csproj|c:\\users\\user\\desktop\\\u05D0\u05D9\u05DC\u05D4\\webapplication3\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57C810D-C84C-4E65-A21E-87E2A592FC8C}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D0\u05D9\u05DC\u05D4\\WebApplication3\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "DTO\\UserDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D0\u05D9\u05DC\u05D4\\WebApplication3\\DTO\\UserDto.cs",
+              "RelativeToolTip": "DTO\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:38:20.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D0\u05D9\u05DC\u05D4\\WebApplication3\\DAL\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D0\u05D9\u05DC\u05D4\\WebApplication3\\DAL\\UserRepository.cs",
+              "RelativeToolTip": "DAL\\UserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:30:01.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D0\u05D9\u05DC\u05D4\\WebApplication3\\DTO\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "DTO\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D0\u05D9\u05DC\u05D4\\WebApplication3\\DTO\\LoginRequest.cs",
+              "RelativeToolTip": "DTO\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:41:20.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BAL.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D0\u05D9\u05DC\u05D4\\WebApplication3\\BAL\\BAL.csproj",
+              "RelativeDocumentMoniker": "BAL\\BAL.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D0\u05D9\u05DC\u05D4\\WebApplication3\\BAL\\BAL.csproj",
+              "RelativeToolTip": "BAL\\BAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-11T09:33:40.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D0\u05D9\u05DC\u05D4\\WebApplication3\\BAL\\Class1.cs",
+              "RelativeDocumentMoniker": "BAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D0\u05D9\u05DC\u05D4\\WebApplication3\\BAL\\Class1.cs",
+              "RelativeToolTip": "BAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:33:25.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D0\u05D9\u05DC\u05D4\\WebApplication3\\BAL\\IUserService.cs",
+              "RelativeDocumentMoniker": "BAL\\IUserService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D0\u05D9\u05DC\u05D4\\WebApplication3\\BAL\\IUserService.cs",
+              "RelativeToolTip": "BAL\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:34:11.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D0\u05D9\u05DC\u05D4\\WebApplication3\\WebApplication3\\Controllers\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\AuthenticateController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D0\u05D9\u05DC\u05D4\\WebApplication3\\WebApplication3\\Controllers\\AuthenticateController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\AuthenticateController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:57:52.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D0\u05D9\u05DC\u05D4\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D0\u05D9\u05DC\u05D4\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeToolTip": "WebApplication3\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:59:09.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D0\u05D9\u05DC\u05D4\\WebApplication3\\DAL\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D0\u05D9\u05DC\u05D4\\WebApplication3\\DAL\\IUserRepository.cs",
+              "RelativeToolTip": "DAL\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:28:53.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D0\u05D9\u05DC\u05D4\\WebApplication3\\DAL\\models\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\models\\User.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D0\u05D9\u05DC\u05D4\\WebApplication3\\DAL\\models\\User.cs",
+              "RelativeToolTip": "DAL\\models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:39:13.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D0\u05D9\u05DC\u05D4\\WebApplication3\\DAL\\models\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\models\\UserDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D0\u05D9\u05DC\u05D4\\WebApplication3\\DAL\\models\\UserDbContext.cs",
+              "RelativeToolTip": "DAL\\models\\UserDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:12:18.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D0\u05D9\u05DC\u05D4\\WebApplication3\\BAL\\UserService.cs",
+              "RelativeDocumentMoniker": "BAL\\UserService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D0\u05D9\u05DC\u05D4\\WebApplication3\\BAL\\UserService.cs",
+              "RelativeToolTip": "BAL\\UserService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:35:30.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WebApplication3.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D0\u05D9\u05DC\u05D4\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+              "RelativeDocumentMoniker": "WebApplication3\\WebApplication3.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D0\u05D9\u05DC\u05D4\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+              "RelativeToolTip": "WebApplication3\\WebApplication3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-11T10:52:18.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D0\u05D9\u05DC\u05D4\\WebApplication3\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D0\u05D9\u05DC\u05D4\\WebApplication3\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:51:19.731Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

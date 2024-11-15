@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\אילה\WebApplication3\BAL\bin\Debug\net8.0\BAL.deps.json
+C:\Users\user\Desktop\אילה\WebApplication3\BAL\bin\Debug\net8.0\BAL.dll
+C:\Users\user\Desktop\אילה\WebApplication3\BAL\bin\Debug\net8.0\BAL.pdb
+C:\Users\user\Desktop\אילה\WebApplication3\BAL\bin\Debug\net8.0\DAL.dll
+C:\Users\user\Desktop\אילה\WebApplication3\BAL\bin\Debug\net8.0\DTO.dll
+C:\Users\user\Desktop\אילה\WebApplication3\BAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\user\Desktop\אילה\WebApplication3\BAL\bin\Debug\net8.0\DTO.pdb
+C:\Users\user\Desktop\אילה\WebApplication3\BAL\obj\Debug\net8.0\BAL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\אילה\WebApplication3\BAL\obj\Debug\net8.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\אילה\WebApplication3\BAL\obj\Debug\net8.0\BAL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\אילה\WebApplication3\BAL\obj\Debug\net8.0\BAL.AssemblyInfo.cs
+C:\Users\user\Desktop\אילה\WebApplication3\BAL\obj\Debug\net8.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\אילה\WebApplication3\BAL\obj\Debug\net8.0\BAL.csproj.Up2Date
+C:\Users\user\Desktop\אילה\WebApplication3\BAL\obj\Debug\net8.0\BAL.dll
+C:\Users\user\Desktop\אילה\WebApplication3\BAL\obj\Debug\net8.0\refint\BAL.dll
+C:\Users\user\Desktop\אילה\WebApplication3\BAL\obj\Debug\net8.0\BAL.pdb
+C:\Users\user\Desktop\אילה\WebApplication3\BAL\obj\Debug\net8.0\ref\BAL.dll
